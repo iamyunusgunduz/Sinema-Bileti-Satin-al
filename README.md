@@ -1,5 +1,5 @@
 # Sinema-Bileti-Satin-al
- OOP Mantığı ile dinamik olarak Sinema Bileti alma uygulaması
+ (OOP Mantığı ile dinamik olarak )  Sinema Bileti alma uygulaması
  
 OOP prensiplerinden bazılarını kullanarak (Class , Object ,Constructor , Overloading, Encapsulation, Inheritance, Polymorphism)    OOP mantığını kavramaya çalıştığım bir Masaüstü uygulama.
 
