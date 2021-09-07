@@ -1,0 +1,11 @@
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\bin\Debug\CinemaTicketSalesAutomation.exe.config
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\bin\Debug\CinemaTicketSalesAutomation.exe
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\bin\Debug\CinemaTicketSalesAutomation.pdb
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\obj\Debug\CinemaTicketSalesAutomation.csproj.AssemblyReference.cache
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\obj\Debug\CinemaTicketSalesAutomation.Form1.resources
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\obj\Debug\CinemaTicketSalesAutomation.Properties.Resources.resources
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\obj\Debug\CinemaTicketSalesAutomation.csproj.GenerateResource.cache
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\obj\Debug\CinemaTicketSalesAutomation.csproj.CoreCompileInputs.cache
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\obj\Debug\CinemaTicketSalesAutomation.exe
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\obj\Debug\CinemaTicketSalesAutomation.pdb
+C:\Users\iamyu\source\repos\CinemaTicketSalesAutomation\CinemaTicketSalesAutomation\obj\Debug\CinemaTicketSalesAutomation.Form2.resources
